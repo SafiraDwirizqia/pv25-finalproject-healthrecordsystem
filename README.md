@@ -13,17 +13,17 @@
       <b>Ketika memilih ke tab "Ekspor CSV".</b>
     </td>
     <td align="center">
-      <img src="MenuBar_File.png" width="200"/><br>
+      <img src="menuBar_file.png" width="200"/><br>
       <b>Ketika memilih menu tab file.</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="MenuBar_Edit.png" width="200"/><br>
+      <img src="menuBar_edit.png" width="200"/><br>
       <b>Ketika memilih menu tab edit.</b>
     </td>
     <td align="center">
-      <img src="MenuBar_Bantuan.png" width="200"/><br>
+      <img src="menuBar_bantuan.png" width="200"/><br>
       <b>Ketika memilih menu tab bantuan.</b>
     </td>
   </tr>
